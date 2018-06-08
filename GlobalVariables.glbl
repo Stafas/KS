@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://toddmotto.com/angular-pizza-creator/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fictitious name</description>
+      <initValue>'Jack Black'</initValue>
+      <name>Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fictitious email</description>
+      <initValue>'schoolofrock@mailinator.com'</initValue>
+      <name>Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fictitious address</description>
+      <initValue>'Mulholland Drive 23b'</initValue>
+      <name>Address</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fictitious postcode</description>
+      <initValue>'90210'</initValue>
+      <name>Postcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>fictitious phone number</description>
+      <initValue>'666999'</initValue>
+      <name>Phonenumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Notification</description>
+      <initValue>'FIELD IS REQUIRED'</initValue>
+      <name>WarningNotification</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Anchovy  $0.69'</initValue>
+      <name>ToppingName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1200'</initValue>
+      <name>Height</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1300'</initValue>
+      <name>Width</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
